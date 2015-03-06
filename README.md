@@ -1,5 +1,6 @@
 cfcli Cookbook
 ==============
+[![Build Status](https://travis-ci.org/esha/cfcli-cookbook.svg)](https://travis-ci.org/esha/cfcli-cookbook)
 
 Installs the [Cloud Foundry command line client](https://github.com/cloudfoundry/cli).
 
